@@ -17,14 +17,14 @@ A **System Programmer** and **high-speed software** developers from Indonesia.<b
 <a href="https://youtube.com/@inotfacecam" title="YouTube"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="30" align="center"/></a>
 <a href="https://gitlab.com/wahyucoder231" title="GitLab"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange" height="30" align="center"/></a>
 <a href="mailto:srimaulani1977@gmail.com" title="Email"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
-<a href="https://wa.me/65087854593990" title="Whatsapp"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
+<a href="https://wa.me/62087854593990" title="Whatsapp"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
 - **Note**: You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 - **Current Project**: Working on [Pocol Virtual Machine](https://github.com/John-fried/PocolVM/)
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,vite,nodejs,md,git,github&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,vite,nodejs,md,json,git,github&perline=13)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
 
