@@ -19,7 +19,7 @@ A **System Programmer** and **high-speed software** developers from Indonesia.<b
 <a href="mailto:srimaulani1977@gmail.com" title="Email"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
 <a href="https://wa.me/62087854593990" title="Whatsapp"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
 - **Note**: You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
-- **Current Project**: Working on [Pocol Virtual Machine](https://github.com/John-fried/PocolVM/)
+- **Current Project**: Working on some small utility projects, see in the Repository Profile
 
 ---
 
