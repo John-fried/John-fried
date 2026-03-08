@@ -12,7 +12,7 @@
 
 A **System Programmer** and **high-speed software** developers from Indonesia.<br>
 
-- **Collaborations**: Open to project collaborations.
+- **Collaborations**: Always Open to project collaborations.
 - **You can reach me through**:
 <a href="https://youtube.com/@inotfacecam" title="YouTube"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="30" align="center"/></a>
 <a href="https://gitlab.com/wahyucoder231" title="GitLab"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange" height="30" align="center"/></a>
@@ -26,7 +26,7 @@ A **System Programmer** and **high-speed software** developers from Indonesia.<b
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,ts,js,react,vite,nodejs,md,git,github&perline=13)](#)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> My Github Stats
 
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=John-fried&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
