@@ -22,10 +22,10 @@ A **System Programmer** and **high-speed software** developers from Indonesia.<b
 - **Current Project**: Currently working on [Urus Programming Language](https://github.com/Urus-Foundation/Urus)
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Skills:**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,ts,js,react,vite,nodejs,md,git,github&perline=13)](#)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> My Github Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Stats
 
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=John-fried&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
