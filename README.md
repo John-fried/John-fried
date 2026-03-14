@@ -28,11 +28,9 @@ I'm a **System Programmer** focused on **low-level** systems and **performance o
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Stats
 
-<p align="center">
-  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=John-fried&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" width="85%" />
-</p>
-
-[![John Fried current streak](https://streak-stats.demolab.com/?user=John-fried&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+![](https://github-readme-stats.vercel.app/api?username=John-fried&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=John-fried&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=John-fried&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
