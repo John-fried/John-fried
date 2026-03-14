@@ -11,6 +11,7 @@
 # Hi... I'm John  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 A **System Programmer** and **high-speed software** developers from Indonesia.<br>
+I'm a **System Programmer** focused on **low-level** systems and **performance optimization**. My primary interests lie in **computer architecture, memory management**, and building efficient developer tools.<br>
 
 - **Collaborations**: Always Open to project collaborations.
 - **You can reach me through**:
