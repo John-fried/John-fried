@@ -10,8 +10,7 @@
 
 # Hi... I'm John  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-A **System Programmer** and **high-speed software** developers from Indonesia.<br><br>
-I'm a **System Programmer** focused on **low-level** systems and **performance optimization**. My primary interests lie in **computer architecture, memory management**, and building efficient developer tools.<br>
+I'm a **System Programmer** focused on **low-level** systems and **performance optimization**. My primary interests lie in **computer architecture**, **memory management**, and building efficient developer tools.<br>
 
 - **Collaborations**: Always Open to project collaborations.
 - **You can reach me through**:
@@ -28,7 +27,9 @@ I'm a **System Programmer** focused on **low-level** systems and **performance o
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Stats
 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=John-fried&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+<p align="center">
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=John-fried&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" width="75%" />
+</p>
 
 [![John Fried current streak](https://streak-stats.demolab.com/?user=John-fried&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
