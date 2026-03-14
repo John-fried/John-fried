@@ -18,17 +18,18 @@ I'm a **System Programmer** focused on **low-level** systems and **performance o
 <a href="https://gitlab.com/wahyucoder231" title="GitLab"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange" height="30" align="center"/></a>
 <a href="mailto:srimaulani1977@gmail.com" title="Email"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
 <a href="https://wa.me/62087854593990" title="Whatsapp"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
-- **Note**: You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 - **Current Project**: Currently working on [Urus Programming Language](https://github.com/Urus-Foundation/Urus)
+
+> You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Skills:**
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,ts,js,react,vite,nodejs,md,git,github&perline=13)](#)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,ts,js,react,vite,nodejs,lua,bash,vim,git,github&perline=13" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Stats
 
 <p align="center">
-  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=John-fried&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" width="75%" />
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=John-fried&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" width="85%" />
 </p>
 
 [![John Fried current streak](https://streak-stats.demolab.com/?user=John-fried&count_private=true&theme=blue-green&title_color=00b3ff)](#)
