@@ -27,9 +27,9 @@ I'm a **System Programmer** focused on **low-level** systems and **performance o
 ### Focused on:<br>
 <img src="https://skillicons.dev/icons?i=c,cpp,ts,react,bash,vim,git,github&perline=13" /><br>
 ### Language when im bored:<br>
-<img src="https://skillicons.dev/icons?i=python,vite,nodejs&perline=13" /><br>
+<img src="https://skillicons.dev/icons?i=python,js,nodejs&perline=13" /><br>
 ### Other skills:<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,lua,linux&perline=13" />
+<img src="https://skillicons.dev/icons?i=html,css,vite,lua,linux&perline=13" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Stats
 
