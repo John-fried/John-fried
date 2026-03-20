@@ -24,10 +24,12 @@ I'm a **System Programmer** focused on **low-level** systems and **performance o
 ---
 
 ## Top projects 📁
-- [Urus Programming Language](https://github.com/Urus-Foundation/Urus) -- Programming Language built for simplicty, but Fast like C
-- [PocolVM](https://github.com/John-fried/PocolVM) -- My Virtual Machine
-- [Delima](https://github.com/Urus-Foundation/Delima) -- The Dumb Efficient Library manager (still on development)
-- [hoc](https://github.com/John-fried/hoc) -- Transfer file fast, with/no internet
+| Project Name | Description | Link |
+| :--- | :--- | :--- |
+| **Urus Programming Language** | A programming language built for [Simplicity](https://en.wikipedia.org/wiki/KISS_principle), maintaining speed comparable to `C`. | [GitHub](https://github.com/Urus-Foundation/Urus) |
+| **PocolVM** | A custom implementation of a [Virtual Machine](https://en.wikipedia.org/wiki/Virtual_machine). | [GitHub](https://github.com/John-fried/PocolVM) |
+| **Delima** | An efficient [Package Manager](https://en.wikipedia.org/wiki/Package_manager) library (currently under development). | [GitHub](https://github.com/Urus-Foundation/Delima) |
+| **hoc** | A tool for fast file transfers, functional with or without an internet connection. | [GitHub](https://github.com/John-fried/hoc) |
 
 ---
 
