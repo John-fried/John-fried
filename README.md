@@ -24,12 +24,12 @@ I'm a **System Programmer** focused on **low-level** systems and **performance o
 ---
 
 ## Top projects 📁
-| Project Name | Description | Link |
+| Project | Description | Link |
 | :--- | :--- | :--- |
-| **Urus Programming Language** | A programming language built for [Simplicity](https://en.wikipedia.org/wiki/KISS_principle), maintaining speed comparable to `C`. | [GitHub](https://github.com/Urus-Foundation/Urus) |
-| **PocolVM** | A custom implementation of a [Virtual Machine](https://en.wikipedia.org/wiki/Virtual_machine). | [GitHub](https://github.com/John-fried/PocolVM) |
-| **Delima** | An efficient [Package Manager](https://en.wikipedia.org/wiki/Package_manager) library (currently under development). | [GitHub](https://github.com/Urus-Foundation/Delima) |
-| **hoc** | A tool for fast file transfers, functional with or without an internet connection. | [GitHub](https://github.com/John-fried/hoc) |
+| **Urus** | Simple and fast C-like language. | [GitHub](https://github.com/Urus-Foundation/Urus) |
+| **PocolVM** | Custom [Virtual Machine](https://en.wikipedia.org/wiki/Virtual_machine) implementation. | [GitHub](https://github.com/John-fried/PocolVM) |
+| **Delima** | Dumb Efficient [Library Manager](https://en.wikipedia.org/wiki/Package_manager). | [GitHub](https://github.com/Urus-Foundation/Delima) |
+| **hoc** | Fast [File Transfer](https://en.wikipedia.org/wiki/File_transfer) tool. | [GitHub](https://github.com/John-fried/hoc) |
 
 ---
 
