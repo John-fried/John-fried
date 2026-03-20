@@ -23,6 +23,13 @@ I'm a **System Programmer** focused on **low-level** systems and **performance o
 > You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 ---
 
+## Top projects 📁
+- [Urus Programming Language](https://github.com/Urus-Foundation/Urus) -- Programming Language built for simplicty, but Fast like C
+- [PocolVM](https://github.com/John-fried/PocolVM) -- My Virtual Machine
+- [Delima](https://github.com/Urus-Foundation/Delima) -- The Dumb Efficient Library manager (still on development)
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Skills:**
 ### Focused on:<br>
 <img src="https://skillicons.dev/icons?i=c,cpp,ts,react,bash,vim,git,github&perline=13" /><br>
